@@ -2,6 +2,8 @@
 
 npm i pip install beautifulsoup4
 
+My mistakes and difficulties with this code (everything) ---->
+
 1. How was I supposed to do what they were asking? Oh my God, I honestly had no idea.
 2. How was I supposed to grab one link at a time and follow it? AAAAAAAAAAAAAH
 3. Alright, I managed to do that, but...
@@ -10,7 +12,7 @@ npm i pip install beautifulsoup4
 
 There was more to it 👍👍
 
-# meus erros desse codigo e dificuldades(tudo) ----> 
+# Meus erros desse codigo e dificuldades(tudo) ----> 
 
 1. Como que eu ia fazer oque tava pendindo? Meu Deus, eu realmente não sabia.
 2. Como que eu ia pegar um link de cada vez e fazer entrar? AAAAAAAAAAAAAAH
