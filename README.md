@@ -2,7 +2,7 @@
 
 npm i pip install beautifulsoup4
 
-My mistakes and difficulties with this code (everything) ---->
+# My mistakes and difficulties with this code (everything) ---->
 
 1. How was I supposed to do what they were asking? Oh my God, I honestly had no idea.
 2. How was I supposed to grab one link at a time and follow it? AAAAAAAAAAAAAH
